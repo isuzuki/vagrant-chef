@@ -1,4 +1,5 @@
 .vagrant/
+src/
 
 Gemfile.lock
 Berksfile.lock
