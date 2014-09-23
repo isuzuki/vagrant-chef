@@ -3,9 +3,9 @@ Vagrant、chefで構築する開発環境
 
 ## 導入手順
 下記ツールのインストールが必要
-> - VirtualBox 4.3 以上
-> - Vagrant 1.6 以上
-> - Berkshelf 3.0 以上
+> - [VirtualBox](https://www.virtualbox.org) 4.3 以上
+> - [Vagrant](https://www.vagrantup.com) 1.6 以上
+> - [Berkshelf](http://berkshelf.com) 3.0 以上
 
 ### Vagrant plugin
 下記プラグインのインストールが必要
