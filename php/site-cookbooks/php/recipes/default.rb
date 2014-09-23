@@ -18,10 +18,10 @@ end
   end
 end
 
-template "dev.ini" do
-  path "/etc/php.d/dev.ini"
-  source "dev.ini.erb"
-  owner "root"
-  group "root"
+template 'my.ini' do
+  path '/etc/php.d/my.ini'
+  source 'my.ini.erb'
+  owner 'root'
+  group 'root'
   mode 0644
 end
